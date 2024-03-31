@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn1{
+    border: none;
+    background-color:  hsl(0, 80%, 50%);
+    color: white;
+    text-decoration: none;
+    border: none;
+    margin-top: 3px;
+    padding: 5px;
+    width: 200px;
+    
+}
+
+
